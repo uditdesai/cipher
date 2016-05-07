@@ -69,7 +69,8 @@ Line height is a CSS **property** that specifies the line height of text.
 ```
 There is no units behind **"1.7"**. The unit is described as a **"number"**. Although you can place a unit behind 1.7 such as **"px"** too.
 
-* Line height lets the text *breath* and its *convention* in design to have at least 1.5 line height between large chunks of text
+* Li* ne height lets the text *breath* and 
+its *convention* in design to have at least 1.5 line height between large chunks of text
 
 2. **Antialiasing for Fonts**
 
