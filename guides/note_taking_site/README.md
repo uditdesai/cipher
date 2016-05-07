@@ -102,7 +102,7 @@ Antialiasing will style the text to look more crisp and clear!
 Black is the best color for large bodies of text usually.
 
 * Color is the **property**
-* The hex color, #100, is the **value**
+* The hex color, #000, is the **value**
 
 Hex colors are denoted by a **"#"** and are followed by **3 or 6** characters.
 
