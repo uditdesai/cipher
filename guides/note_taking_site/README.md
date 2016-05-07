@@ -15,6 +15,7 @@ Curated by [Jevin](https://twitter.com/jevinsidhu), here are good examples:
 * [PM Archive](http://pmarchive.com)
 
 Here is a good example of what you'll be able to make with these tools:
+
 [Finished note taking site](https://preview.c9users.io/jevinsidhu/firebase-tutorial/index.html)
 
 ## Setting Up Your Document
@@ -101,7 +102,7 @@ Antialiasing will style the text to look more crisp and clear!
 Black is the best color for large bodies of text usually.
 
 * Color is the **property**
-* #000, the hex color, is the **value**
+* The hex color, #100, is the **value**
 
 Hex colors are denoted by a **"#"** and are followed by **3 or 6** characters.
 
