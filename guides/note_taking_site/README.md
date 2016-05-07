@@ -10,12 +10,12 @@ This workshop will give you **tools** you can use when creating a note taking si
 
 Curated by [Jevin](https://twitter.com/jevinsidhu), here are good examples:
 
-* [](https://jevinsidhu.svbtle.com/)
-* [](http://jevinsidhu.github.io/black-history/index.html)
-* [](http://pmarchive.com)
+* [Svbtle blog](https://jevinsidhu.svbtle.com/)
+* [Jevin's black-history blog](http://jevinsidhu.github.io/black-history/index.html)
+* [PM Archive](http://pmarchive.com)
 
 Here is a good example of what you'll be able to make with these tools:
-[](https://preview.c9users.io/jevinsidhu/firebase-tutorial/index.html)
+[Finished note taking site](https://preview.c9users.io/jevinsidhu/firebase-tutorial/index.html)
 
 ## Setting Up Your Document
 1. Create a *index.html* file
@@ -56,7 +56,7 @@ Line height is a CSS **property** that specifies the line height of text.
   * Color
 * **Value** is by how much
   * 10
-  * #000 ([hex code](http://www.color-hex.com/) of color black)
+  * ([hex code](http://www.color-hex.com/) of color black)
 
 **Example:** The first picture is without line-height. The second is with a line height of "1.7".
 ![](https://paper.dropbox.com/ep/redirect/image?url=https%3A%2F%2Fd2mxuefqeaa7sj.cloudfront.net%2Fs_7C75302283E950365E1EF85B8318A65AE9ECBDA5B873334EC939C14F9002A090_1456435946944_Screen%2BShot%2B2016-02-25%2Bat%2B4.32.14%2BPM.png&hmac=Bbr3Rbs0hyANGT7qb1thSeiqP1CLDW7U%2FfMj%2BWzu6Rg%3D)
@@ -69,8 +69,7 @@ Line height is a CSS **property** that specifies the line height of text.
 ```
 There is no units behind **"1.7"**. The unit is described as a **"number"**. Although you can place a unit behind 1.7 such as **"px"** too.
 
-* Li* ne height lets the text *breath* and 
-its *convention* in design to have at least 1.5 line height between large chunks of text
+* Line height lets the text *breath* and is *convention* in design to have at least 1.5 line height between large chunks of text
 
 2. **Antialiasing for Fonts**
 
