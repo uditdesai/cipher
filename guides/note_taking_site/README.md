@@ -55,8 +55,8 @@ Line height is a CSS **property** that specifies the line height of text.
   * Line height
   * Color
 * **Value** is by how much
-  * 10
-  * ([hex code](http://www.color-hex.com/) of color black)
+  * 10px
+  * 100%
 
 **Example:** The first picture is without line-height. The second is with a line height of "1.7".
 ![](https://paper.dropbox.com/ep/redirect/image?url=https%3A%2F%2Fd2mxuefqeaa7sj.cloudfront.net%2Fs_7C75302283E950365E1EF85B8318A65AE9ECBDA5B873334EC939C14F9002A090_1456435946944_Screen%2BShot%2B2016-02-25%2Bat%2B4.32.14%2BPM.png&hmac=Bbr3Rbs0hyANGT7qb1thSeiqP1CLDW7U%2FfMj%2BWzu6Rg%3D)
