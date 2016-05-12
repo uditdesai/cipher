@@ -217,13 +217,16 @@ For the note taking site, there needs to be some type of **place** where you can
 
 We’re going to make a new page for writing your notes. 
 
+
 1.** Create a new HTML file**
   * Give it the **same structure as your index.html** file meaning the head and body tags and links to fonts and the css file
   * Name is post.html
+  
  
 2.** Add a heading for the page**
 
 Hint: ```<h1> </h1>``` tag
+
 
 3.** Time to make the actual input box!**
 
@@ -253,16 +256,19 @@ To make the **text box larger** we just need to **add** the **attributes of cols
 
 Experiment with different column and row sizes to see which looks best!
  
+ 
 You can add **placeholder text** so users can know what the box is for!
   * This is also accomplisshed through attributes!
 
 **Google "How to add placeholder text"**
+
 
 4.** Design the input box!**
 
 The ```<textarea>``` tag is similar to any other html element meaning it **stylized using CSS**.
 
 Some aspects you can design include the background color, border, font and font size. Use your creativity and make a beautiful and effective text input box!
+
 
 5.** Title for your note?**
 
@@ -274,6 +280,7 @@ Just remember a few things when making it:
   * It should probably be above the main text box (**Order of code matters**)
   * It should probably be smaller than the main text box
   * Remember the all the **atributes** you can add!
+
 
 6.** The Button**
 
