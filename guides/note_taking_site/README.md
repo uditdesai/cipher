@@ -45,7 +45,8 @@ Its good to keep this initial structure in a new file called *structure.html* so
 
 These are some tips for styling your text:
 
-1. **Line Height**
+1. 
+ **Line Height**
 
 Line height is a CSS **property** that specifies the line height of text. 
 
@@ -72,7 +73,8 @@ There is no units behind **"1.7"**. The unit is described as a **"number"**. Alt
 
 * Line height lets the text *breath* and is *convention* in design to have at least 1.5 line height between large chunks of text
 
-2. **Antialiasing for Fonts**
+2. 
+ **Antialiasing for Fonts**
 
 Antialiasing will style the text to look more crisp and clear!
 
