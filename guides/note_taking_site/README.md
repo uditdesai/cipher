@@ -73,8 +73,9 @@ There is no units behind **"1.7"**. The unit is described as a **"number"**. Alt
 
 * Line height lets the text *breath* and is *convention* in design to have at least 1.5 line height between large chunks of text
 
-2. 
- **Antialiasing for Fonts**
+
+
+2.** Antialiasing for Fonts**
 
 Antialiasing will style the text to look more crisp and clear!
 
@@ -99,7 +100,7 @@ Antialiasing will style the text to look more crisp and clear!
 
 * Part of the CSS property that controls antialiasing when fonts are rendered.
 
-3.**Color**
+3.** Color**
 
 Black is the best color for large bodies of text usually.
 
